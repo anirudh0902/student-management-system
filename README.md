@@ -12,4 +12,4 @@ A simple Python-based Student Management System using File Handling.
 - Python
 - File Handling
 
-## How to Run
+
